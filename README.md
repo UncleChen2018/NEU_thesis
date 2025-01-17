@@ -61,8 +61,9 @@ LinkedIn: [Mario A. Nascimento](https://www.linkedin.com/in/mario-nascimento-a93
 
 ### Working on the NEU Discovery Cluster
 1. Get access and login to OOD  https://rc.northeastern.edu/ood/
-2. Create Jupiter Notebook sessions, set partitions as gup-short ( see https://rc.northeastern.edu/partitions/ ), other arugments can be set according to the my thesis's experiment part 
-3. More support see https://rc.northeastern.edu/support/gettinghelp/
+2. If you don't have an idea about OOD, read https://rc-docs.northeastern.edu/en/latest/index.html first
+3. Create Jupiter Notebook sessions, set partitions as gup-short ( see https://rc.northeastern.edu/partitions/ ), other arugments can be set according to the my thesis's experiment part 
+4. More support see https://rc.northeastern.edu/support/gettinghelp/
 
 ### Workflow Overview
 To replicate the experiments, use the Jupyter Notebooks starting from **3-1 All data Experiment Script.ipynb** and follow the sequence:

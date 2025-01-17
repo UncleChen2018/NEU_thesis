@@ -48,14 +48,21 @@ LinkedIn: [Mario A. Nascimento](https://www.linkedin.com/in/mario-nascimento-a93
 ### Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tsfm-compression.git
+   git clone https://github.com/UncleChen2018/NEU_thesis.git
    ```
 2. Install **Chronos**:
    ```bash
    pip install git+https://github.com/amazon-science/chronos-forecasting
    ```
+   Also set the virtual environment according to the Chronos documentation.
 3. Download and install **SZ3** binary:
    - SZ3 can be downloaded and compiled from its official repository: [SZ3 on GitHub](https://github.com/szcompressor/SZ3).
+
+
+### Working on the NEU Discovery Cluster
+1. Get access and login to OOD  https://rc.northeastern.edu/ood/
+2. Create Jupiter Notebook sessions, set partitions as gup-short ( see https://rc.northeastern.edu/partitions/ ), other arugments can be set according to the my thesis's experiment part 
+3. More support see https://rc.northeastern.edu/support/gettinghelp/
 
 ### Workflow Overview
 To replicate the experiments, use the Jupyter Notebooks starting from **3-1 All data Experiment Script.ipynb** and follow the sequence:
